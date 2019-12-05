@@ -1,3 +1,3 @@
-:sparkles:
-:heart:
-:dog:
+- :sparkles:
+  - :heart:
+  - :dog:
